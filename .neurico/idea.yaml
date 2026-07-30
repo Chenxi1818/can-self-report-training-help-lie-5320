@@ -1,0 +1,29 @@
+idea:
+  title: Can self-report training help lie confession?
+  domain: artificial_intelligence
+  hypothesis: "There is a growing body of work on introspective behavior in language\
+    \ models. I\u2019m interested in whether self-report training, training a model\
+    \ to predict or explain its own behavior, can help it recognize and confess when\
+    \ it has lied.\nMy hypothesis is that confessing a lie requires the model to compare\
+    \ its previous answer either with its internal knowledge or with its stated principles,\
+    \ such as \u201CI should never lie.\u201D Self-report training may strengthen\
+    \ this kind of reflective process.\nThere ar..."
+  background:
+    description: "There is a growing body of work on introspective behavior in language\
+      \ models. I\u2019m interested in whether self-report training, training a model\
+      \ to predict or explain its own behavior, can help it recognize and confess\
+      \ when it has lied.\nMy hypothesis is that confessing a lie requires the model\
+      \ to compare its previous answer either with its internal knowledge or with\
+      \ its stated principles, such as \u201CI should never lie.\u201D Self-report\
+      \ training may strengthen this kind of reflective process.\nThere are existing\
+      \ model organisms trained to lie or conceal secrets, which could provide a useful\
+      \ setting for testing this hypothesis."
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/dN5DnL4Gnuz5jGSCEa64
+    author: Xiaoyan Bai
+    idea_id: can_self_report_training_help__20260730_162942_15848d12
+    created_at: '2026-07-30T16:29:42.203689'
+    status: submitted
+    github_repo_name: can-self-report-training-help-lie-5320
+    github_repo_url: https://github.com/Chenxi1818/can-self-report-training-help-lie-5320
